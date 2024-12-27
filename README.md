@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @learnwithalex
-- 👀 I’m interested in teaching programming 
-- 🌱 I’m currently learning java
+- 👋 Hi, I’m Alex
+- 👀 I’m interested in cloud and decentralized shii 
+- 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate with everybody
-- 📫 How to reach me email: alexanderpaul625@gmail.com
+- 📫 How to reach me email: alexprogramming55@gmail.com
 
