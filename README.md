@@ -2,5 +2,5 @@
 - 👀 I’m interested in cloud and decentralized shii 
 - 🌱 I’m currently learning Assembly
 - 💞️ I’m looking to collaborate with everybody
-- 📫 How to reach me email: alexprogramming55@gmail.com
+- 📫 How to reach me email: heiswerido@gmail.com
 
